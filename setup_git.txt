@@ -9,4 +9,5 @@ git config --list #list configs
 git add .# add file to git repository
 git status # New file was added
 git add <file> # update a file
-git help config # get a help on config
+git help config # get a help on 
+$ git commit -m 'initial_project_version' # commit
