@@ -1,0 +1,12 @@
+cd d:
+cd Academy:
+cd GIT:
+
+git config --global user.name "Gideon Kago"
+git config --global user.email gkago@digitalacademy.co.ke
+
+git config --list #list configs
+git add .# add file to git repository
+git status # New file was added
+git add <file> # update a file
+git help config # get a help on config
