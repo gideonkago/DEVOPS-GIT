@@ -12,5 +12,6 @@ git status # New file was added
 git add <file> # update a file
 git help config # get a help on 
 $ git commit -m 'initial_project_version' # commit
-
-sssss
+$ git log
+$git diff 
+try
