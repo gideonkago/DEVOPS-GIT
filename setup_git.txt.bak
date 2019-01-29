@@ -13,5 +13,5 @@ git add <file> # update a file
 git help config # get a help on 
 $ git commit -m 'initial_project_version' # commit
 $ git log
-$git diff 
+$git diff XXXXXXX    YYYYYYYY
 try
