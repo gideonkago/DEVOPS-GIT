@@ -3,8 +3,8 @@ cd d:
 cd Academy:
 cd GIT:
 
-git config --global user.name "Gideon Kago"
-git config --global user.email gkago@digitalacademy.co.ke
+git config --global user.name "gideonkago"
+git config --global user.email gideonkago@gmail.com
 
 git config --list #list configs
 git add .# add file to git repository
@@ -16,3 +16,5 @@ $ git log
 $git diff XXXXXXX    YYYYYYYY
 $ git remote add origin https://github.com/gideonkago/DEVOPS-GIT.git
 
+$ git pull --rebase origin master
+$ git push -u origin master

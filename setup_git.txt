@@ -16,3 +16,7 @@ $ git log
 $git diff XXXXXXX    YYYYYYYY
 $ git remote add origin https://github.com/gideonkago/DEVOPS-GIT.git
 
+$ git pull --rebase origin master
+$ git push -u origin master
+$ git push all
+
