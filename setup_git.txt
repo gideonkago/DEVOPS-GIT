@@ -18,5 +18,13 @@ $ git remote add origin https://github.com/gideonkago/DEVOPS-GIT.git
 
 $ git pull --rebase origin master
 $ git push -u origin master
+$ git branch new_branch
+$ git checkout new_branch
+$ git push -u origin new_branch
+$ git clone https://github.com/myliang/x-spreadsheet.git
+git log index.html  # query changes on file index.html  # Date:   Fri Jan 25 10:26:17 2019 +0300
+
+
+
 $ git push all
 
